@@ -2,13 +2,13 @@
   <img src="docs/appIcon.svg" width="100px" alt="GitHub Stats Extended Logo" />
   <h1>GitHub Stats Extended</h1>
   <p>Dynamically generate GitHub stats for your READMEs.</p>
-<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra">
+<a href="https://github-stats-extended.vercel.app/api?username=Auric-Coder">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=Auric-Coder&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Auric-Coder&theme=light_github" />
   </picture>
 </a>
 </div>
@@ -51,20 +51,20 @@ GitHub-Stats-Extended aims to be fully compatible with github-readme-stats. For 
 
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=Auric-Coder&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=light_github" alt="Anurag's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Auric-Coder&theme=light_github" alt="Anurag's GitHub stats" />
   </picture>
 
 - ...your top languages...:
 
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Auric-Coder&langs_count=4&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=light_github" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Auric-Coder&langs_count=4&theme=light_github" alt="Top Langs" />
   </picture>
 
 - ...and development time:
@@ -84,10 +84,10 @@ GitHub-Stats-Extended aims to be fully compatible with github-readme-stats. For 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
       <source
-        srcset="https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark_github_repocard"
+        srcset="https://github-stats-extended.vercel.app/api/pin/?username=Auric-Coder&repo=github-readme-stats&theme=dark_github_repocard"
         media="(prefers-color-scheme: dark)"
       />
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=Auric-Coder&repo=github-readme-stats&theme=light_github_repocard" alt="Readme Card" />
     </picture>
   </a>
 
