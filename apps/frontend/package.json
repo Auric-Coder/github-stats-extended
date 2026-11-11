@@ -17,11 +17,11 @@
     "@astrojs/starlight": "^0.41.10",
     "@reduxjs/toolkit": "^2.12.0",
     "@stats-organization/github-readme-stats-core": "workspace:^",
-    "@tailwindcss/vite": "^4.3.3",
+    "@tailwindcss/vite": "^4.3.4",
     "astro": "^7.2.3",
     "axios": "catalog:default",
     "axios-cache-interceptor": "^1.12.1",
-    "daisyui": "^5.7.22",
+    "daisyui": "^5.7.50",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-icons": "^5.7.0",
@@ -38,7 +38,7 @@
     "clsx": "2.1.1",
     "jsdom": "catalog:default",
     "starlight-links-validator": "0.25.3",
-    "tailwindcss": "4.3.3",
+    "tailwindcss": "4.3.4",
     "vitest": "catalog:default"
   },
   "browserslist": {
